@@ -1,1 +1,9 @@
 E:\projects\TranslateGui\TranslateGui\TranslateGui\bin\Debug\TranslateGui.exe.config
+E:\projects\TranslateGui\TranslateGui\TranslateGui\bin\Debug\TranslateGui.exe
+E:\projects\TranslateGui\TranslateGui\TranslateGui\bin\Debug\TranslateGui.pdb
+E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.csprojResolveAssemblyReference.cache
+E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.Main.resources
+E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.Properties.Resources.resources
+E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.csproj.GenerateResource.Cache
+E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.exe
+E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.pdb

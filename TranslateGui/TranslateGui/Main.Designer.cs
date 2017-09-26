@@ -55,10 +55,65 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Afrikaans",
+            "Arabic",
+            "Bosnian (Latin)",
+            "Bulgarian",
+            "Catalan",
+            "Chinese Simplified",
+            "Chinese Traditional",
+            "Croatian",
+            "Czech",
+            "Danish",
+            "Dutch",
+            "Estonian",
+            "Finnish",
+            "French",
+            "German",
+            "Greek",
+            "Haitian Creole",
+            "Hebrew",
+            "Hindi",
+            "Hmong Daw",
+            "Hungarian",
+            "Indonesian",
+            "Italian",
+            "Japanese",
+            "Kiswahili",
+            "Klingon",
+            "Klingon (pIqaD)",
+            "Korean",
+            "Latvian",
+            "Lithuanian",
+            "Malay",
+            "mt",
+            "Maltese",
+            "Norwegian",
+            "Persian",
+            "Polish",
+            "Portuguese",
+            "Querétaro Otomi",
+            "Romanian",
+            "Russian",
+            "Serbian (Cyrillic)",
+            "Serbian (Latin)",
+            "Slovak",
+            "Slovenian",
+            "Spanish",
+            "Swedish",
+            "Thai",
+            "Turkish",
+            "Ukrainian",
+            "Urdu",
+            "Vietnamese",
+            "Welsh",
+            "Yucatec Maya"});
             this.comboBox1.Location = new System.Drawing.Point(152, 274);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 2;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // LanguageLabel
             // 
