@@ -42,6 +42,9 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="TranslateMS">
+      <HintPath>..\..\..\TranslateMS\TranslateMS\TranslateMS\bin\Debug\TranslateMS.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs">

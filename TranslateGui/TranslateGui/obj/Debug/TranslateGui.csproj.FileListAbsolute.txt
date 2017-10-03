@@ -7,3 +7,5 @@ E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.Proper
 E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.csproj.GenerateResource.Cache
 E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.exe
 E:\projects\TranslateGui\TranslateGui\TranslateGui\obj\Debug\TranslateGui.pdb
+E:\projects\TranslateGui\TranslateGui\TranslateGui\bin\Debug\TranslateMS.dll
+E:\projects\TranslateGui\TranslateGui\TranslateGui\bin\Debug\TranslateMS.pdb

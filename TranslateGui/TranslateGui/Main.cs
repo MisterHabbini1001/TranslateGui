@@ -21,5 +21,29 @@ namespace TranslateGui
         {
 
         }
+
+        private void Translate_Click(object sender, EventArgs e) // Microsoft Translate button
+        {
+            if (textBox1.Text == "" && comboBox1.Text == "")
+            {
+                MessageBox.Show("Text to be translated and language to be translated to are empty.");
+            }
+
+            else if (textBox1.Text == "")
+            {
+                MessageBox.Show("Text to be translated to is empty.");
+            }
+
+            else if (comboBox1.Text == "")
+            {
+                MessageBox.Show("Language to be translated to is empty.");
+            }
+            
+            else
+            { 
+                string translate_result = TranslateMS.Main.fetch(textBox1.Text, comboBox1.Text);
+                textBox2.Text = translate_result;
+            }           
+        }
     }
 }
